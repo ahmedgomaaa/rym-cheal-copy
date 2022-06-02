@@ -75,11 +75,11 @@ section{
     background-repeat: repeat;
     filter: blur(8px);
     background-size: contain;
-    transition: 200ms;
+    transition: 200ms; 
     overflow-y: hidden;
     z-index: 1;
     border: 7px solid purple;
-    height: 800px;
+    height: 600px;
 
 
 }
